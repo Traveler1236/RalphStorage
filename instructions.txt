@@ -19,6 +19,10 @@ insert the new txt with cntrl V to paste after copying with cntrl C
 erase duplicated lines.
 
 to save the new lines in instructions.txt
+at the bottom of the dark screen
+in the notes section make notes 
+click on commit at bottom right
+
 click on the RalphStorage repository
 you will see the instructions.txt file
 click on the  "clone in Desktop" button at right bottom
@@ -28,5 +32,4 @@ allow
 all done
 Please feel free and add instructions for all.
 Ralph
-
 
