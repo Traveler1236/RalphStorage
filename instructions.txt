@@ -1,1 +1,10 @@
-Type the instruction here
+
+Create a file in Notepad
+Instructions as I remember it
+
+goto github    =loading repositories
+at right top click on GitHub
+click on "Traveler1236" at top right
+click on "RalphStorage"
+click on instructions.txt
+
